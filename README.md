@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-this is a new branch
+This is a new branch
